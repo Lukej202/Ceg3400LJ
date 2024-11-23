@@ -9,14 +9,28 @@ Answer the following:
 
 * What are all CIDR's in use in your home network?
 * List all IP addresses that respond to a basic nmap scan [ALTERNATIVE: manually count ALL TCP/IP devices you own and mulitply by the number of people living within your building or a 500ft radius (whichever is bigger).]
+
+	* 8 resopnded 
+
 * Can you identify all devices on your network? [ALTERNATIVE: what would the CIDR need to be to house the above number of devices?]
 * How many online accounts and social media platforms are you on
   that hold non-trivial data about you?
+
+	* I would say 4
+
 * How many of these are critical for your organizations business goals?
+
+	* I would say 2 of them youtube for destressing purposes and Linkedin for obvious reasons
+
 * Do you know the Authentication policies of these critical accounts?
+
+	* I do for youtube 
+
   * List all primary and secondary authentication methods for your most 
     important account, including non password related reset options 
     that might be vulnerable to an attacker.
+	
+	* I have email verifaction for youtube thats about it
 
 ---
 
