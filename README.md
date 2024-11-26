@@ -41,9 +41,13 @@ Answer the following:
 * My three Platforms (CPE's) (please provide both a link and a common name/version):
   1. [first cpe common name](https://nvd.nist.gov/products/cpe/detail/37BD85E3-C0C2-459B-AFE5-72A030EC19D8)
   2. [second cpe](https://nvd.nist.gov/products/cpe/detail/680992?namingFormat=2.3&orderBy=CPEURI&keyword=cpe%3A2.3%3Aa%3Amicrosoft%3Avisual_studio_code&status=FINAL%2CDEPRECATED) 
-  3. [third cpe](thrid.com)
+  3. [third cpe](https://nvd.nist.gov/products/cpe/detail/1257242?namingFormat=2.3&orderBy=CPEURI&keyword=cpe%3A2.3%3Ao%3Acanonical%3Aubuntu_linux%3A*%3A*%3A*%3A*%3Alts%3A*%3A*%3A*&status=FINAL%2CDEPRECATED)
 * Why might having the CPE lookup for your most critical software be important
   for an organization to mitigate risk?
+
+	* because if this software is important to your organazation you would want to know the information the cpe
+provides and also the CVE's related to the CPE's to know of any vulnerabilities that could affect tour organazation
+
 * Which CPE has the most CVE's since Jan 1, 2023?  How many?
 * What is the highest CVSS score of any 2024 CVE related to one of your CPE's?  Link the CVE.
 
