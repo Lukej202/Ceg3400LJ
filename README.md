@@ -39,8 +39,8 @@ Answer the following:
 Answer the following:
 
 * My three Platforms (CPE's) (please provide both a link and a common name/version):
-  1. [first cpe common name](www.first-cpe-link.com)
-  2. [second cpe](second.com) 
+  1. [first cpe common name](https://nvd.nist.gov/products/cpe/detail/37BD85E3-C0C2-459B-AFE5-72A030EC19D8)
+  2. [second cpe](https://nvd.nist.gov/products/cpe/detail/680992?namingFormat=2.3&orderBy=CPEURI&keyword=cpe%3A2.3%3Aa%3Amicrosoft%3Avisual_studio_code&status=FINAL%2CDEPRECATED) 
   3. [third cpe](thrid.com)
 * Why might having the CPE lookup for your most critical software be important
   for an organization to mitigate risk?
